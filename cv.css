@@ -1,0 +1,55 @@
+h3{
+font-family: Century Gothic;
+color: #79a2e5;
+}
+h2{
+border-bottom:5px solid #4286f4;
+font-family: Century Gothic;
+color: #2e5fad;
+}
+h1{
+font-family: Century Gothic;
+color: #04017a;
+}
+ul li{
+font-family: Century Gothic;
+color: #79a2e5;
+border-bottom: 5px dotted #134faf;
+}
+.quiensoy{
+	background-color:#3d3d29;
+	margin: 10px 10px 20px 0px;
+	border: 2px groove transparent;
+}
+.formacion{
+	background-color:#3d3d29;
+	margin: 10px 10px 10px 0px;
+	border: 2px groove transparent;
+}
+.experiencia{
+	background-color:#3d3d29
+;
+	margin: 10px 10px 10px 0px;
+	border: 2px groove transparent;
+}
+body{
+	background-color: #3d3d29;
+}
+p{
+	font-family: century gothic;
+	color:#ffffff;
+}
+.navegacion{
+	float:left;
+}
+#metso{
+	height: auto;
+	width: auto;
+	max-width: 300px;
+	max-height: 300px;
+}
+.datospers{
+	float:right;
+	margin: 0px 200px 0px 0px;
+	width: 800px;
+}
